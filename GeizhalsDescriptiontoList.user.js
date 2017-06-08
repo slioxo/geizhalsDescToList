@@ -7,6 +7,9 @@
 // @include      http://geizhals.de/*
 // @include      http://geizhals.eu/*
 // @include      http://geizhals.at/*
+// @include      https://geizhals.de/*
+// @include      https://geizhals.eu/*
+// @include      https://geizhals.at/*
 // @grant        none
 // ==/UserScript==
 
