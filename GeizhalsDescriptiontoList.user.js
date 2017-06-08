@@ -4,12 +4,7 @@
 // @version      0.1
 // @description  Makes the description of Geizhals articles a list rather than a text
 // @author       http://t.me/lioxo
-// @include      http://geizhals.de/*
-// @include      http://geizhals.eu/*
-// @include      http://geizhals.at/*
-// @include      https://geizhals.de/*
-// @include      https://geizhals.eu/*
-// @include      https://geizhals.at/*
+// @include      /^https?:\/\/geizhals\.(at|de|eu)\/.*$/
 // @grant        none
 // ==/UserScript==
 
