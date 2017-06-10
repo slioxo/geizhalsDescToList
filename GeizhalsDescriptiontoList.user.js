@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Geizhals Description to List
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.3
 // @description  Makes the description of Geizhals articles a list rather than a text
 // @author       http://t.me/lioxo
 // @include      /^https?:\/\/geizhals\.(at|de|eu)\/.*$/
